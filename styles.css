@@ -1,0 +1,19 @@
+h1 {text-align: center;}
+
+h2 {text-align: center;}
+
+img {width: 400px;
+    display: flex;
+    margin: 0px auto 0px auto;
+    border: solid 3px white;
+}
+
+body {background-color: #B0E0E6;}
+
+.superman {display: none;}
+
+.batman {display: none;}
+
+.flash {display: none;}
+
+.wonderWoman {display: none;}
